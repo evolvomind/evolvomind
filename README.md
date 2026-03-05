@@ -1,39 +1,42 @@
 # Hello there 👋
 
-Somewhere between curiosity and caffeine, I started building things on the internet.
+Somewhere between curiosity and caffeine ☕, I started teaching computers to do interesting things.
 
-What began as simple scripts slowly turned into systems — agents that explore the web, machines that answer questions, infrastructure that moves data around the world. Somewhere along the way I discovered that I enjoy solving strange problems more than following normal paths.
+What began as small scripts slowly grew into systems — agents that explore the web, models that try to understand language, and tools that help machines reason about messy real-world data.
 
-These days I spend most of my time experimenting with intelligent systems, distributed tools, and ideas that probably shouldn't work… until they do.
+Lately I've been spending a lot of time experimenting with AI systems: building agents, designing pipelines, and trying to understand how intelligent software should interact with the world.
 
-I like building small things that grow into large systems.
-
-Sometimes it's an AI pipeline.
-Sometimes it's a data engine.
-Sometimes it's just a weird experiment that teaches me something new.
+Some experiments work.
+Some experiments break spectacularly.
+Both are useful.
 
 ---
 
 ### A few things about me
 
-* I drink more coffee than strictly necessary
-* I like systems that are elegant on the inside
-* I enjoy breaking complicated problems into simple pieces
-* Most of my ideas start as “this might be a terrible idea…”
+* ☕ Coffee is still the most reliable debugging tool
+* 🧠 I enjoy turning complex problems into systems that make sense
+* 🛠 I like building tools that build other tools
+* 🤖 Currently fascinated by autonomous agents and AI systems that can explore, reason, and learn
 
 ---
 
 ### What you'll find here
 
-A collection of experiments, tools, and systems I'm exploring.
+A collection of experiments around:
 
-Some are useful.
-Some are unfinished.
-Some are just curiosity turned into code.
+* AI systems and agents
+* tools for working with data and language
+* infrastructure that makes intelligent software actually run
 
-All of them are part of the same journey: learning how far software can go.
+Some projects are prototypes.
+Some are half-finished ideas.
+Some are things that turned out better than expected.
+
+All of them are part of the same curiosity:
+how far we can push intelligent software.
 
 ---
 
-If you're building something ambitious, strange, or interesting —
-I'd love to see it.
+If you're building interesting things in AI, systems, or anything slightly strange —
+I'd love to see it 🚀
